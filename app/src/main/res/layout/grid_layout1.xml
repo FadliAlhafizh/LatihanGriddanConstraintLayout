@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/a"
+        android:layout_gravity="left|top"
+        android:text="A"/>
+    <Button
+        android:id="@+id/b"
+        android:layout_gravity="left|top"
+        android:text="B"/>
+    <Button
+        android:id="@+id/c"
+        android:layout_gravity="left|top"
+        android:text="C"/>
+    <Button
+        android:id="@+id/d"
+        android:layout_gravity="left|top"
+
+        android:text="D"/>
+    <Button
+        android:id="@+id/e"
+        android:layout_gravity="left|top"
+        android:text="E"/>
+    <Button
+        android:id="@+id/f"
+        android:layout_gravity="left|top"
+        android:text="F"/>
+    <Button
+        android:id="@+id/g"
+        android:layout_gravity="left|top"
+        android:text="G"/>
+    <Button
+        android:id="@+id/h"
+        android:layout_gravity="left|top"
+        android:text="H"/>
+    <Button
+        android:id="@+id/i"
+        android:layout_gravity="left|top"
+        android:text="I"/>
+    <Button
+        android:id="@+id/j"
+        android:layout_gravity="left|top"
+        android:text="J"/>
+    <Button
+        android:id="@+id/k"
+        android:layout_gravity="left|top"
+        android:text="K"/>
+    <Button
+        android:id="@+id/l"
+        android:layout_gravity="left|top"
+        android:text="L"/>
+
+</GridLayout>
